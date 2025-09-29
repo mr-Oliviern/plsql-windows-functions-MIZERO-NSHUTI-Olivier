@@ -57,11 +57,14 @@ select customer_ID, customer_names,region
  ,RANK() OVER(ORDER BY customer_names ASC) RNK from CUSTOMER;Here there are the screen shoot of how the table arranged
 
 <img width="720" height="210" alt="image" src="https://github.com/user-attachments/assets/79fc3026-4343-4eed-8513-5ece3c6b08fa" />
+
+
 For Ranking with using DENSE_RANK ()
 This is the codes used to ranking with DENSE_RANK ()
 select customer_ID, customer_names,region
  ,DENSE_RANK() OVER(ORDER BY customer_names ASC) DRK from CUSTOMER;
  Here there are the screen shoot of how the table arranged
+ 
  <img width="789" height="232" alt="image" src="https://github.com/user-attachments/assets/0b6afaf5-0eb9-4231-ac7a-eda1672c58c8" />
 
 For Ranking with using PERCENT_RANK ()
@@ -84,27 +87,42 @@ So after joining table we are going to the step of AGGREGATE
 Aggregate      FOR SUM () OF amount which are received in our company 
 This table sum the total amount but also grouped by  customer_id and product_id
 <img width="260" height="81" alt="image" src="https://github.com/user-attachments/assets/1a3a26cf-3de7-4357-8639-df14f7a6fefe" />
+
+
 For the second aggregate of AVG () for average amount we calculated the average amount for every customer but are grouped by customer_id and product_id here we have the screen shoot that shows how the output is that I it for avg () in SQL
+
 <img width="845" height="263" alt="image" src="https://github.com/user-attachments/assets/807cc7f6-f6c1-4fe5-bcbf-fd47fdd8ec02" />
 For min () is the other step we are going to show how it looks. Therefore we are going to looks like
+
 <img width="840" height="287" alt="image" src="https://github.com/user-attachments/assets/7854f2db-87b7-413e-af7c-7fb49ae0219f" />
 The next is to find the max () amount in the transactions table 
 Here we have the screen shoot of table which shows maximum amount 
+
 <img width="956" height="153" alt="image" src="https://github.com/user-attachments/assets/fb3b5056-0baa-443d-b490-52033692a663" />
 For the other aggregate we are going to check for ROWS vs RANGE
 For ROWS this is the table which shows how the rows are ordered by using amount
+
 <img width="529" height="190" alt="image" src="https://github.com/user-attachments/assets/73b2d1c5-ebc7-49cc-844d-148d2bfd5372" />
 For RANGE here we have the screen shoot of how the table of range must look like
+
 <img width="594" height="241" alt="image" src="https://github.com/user-attachments/assets/7b8810c9-ab13-4a0b-acb9-19ab3d8427ed" />
+
 Navigation: LAG (), LEAD ()
 We start with LAG () this is the table which shows the LAG () IN our table of transactions
+
 <img width="852" height="153" alt="image" src="https://github.com/user-attachments/assets/f98edea8-5c4b-4ff1-b05d-bfdbcb7c0f50" />
 For the next we are going to se the LEAD () navigation 
+
 <img width="689" height="260" alt="image" src="https://github.com/user-attachments/assets/d0fd9a26-c49a-4d84-9f9a-abf8447dec39" />
+
 Distribution: NTILE (4), CUME_DIST ()
 We have come from the distribution of our tables 
+
 We are going to start with NTILE (4 here we have the screen shoot of how this function are shown and used 
+
 <img width="872" height="198" alt="image" src="https://github.com/user-attachments/assets/3316de06-9c82-499f-ac75-c4f482060e99" />
+
 After using NTILE (4 we are going to use the other navigation which called 
 CUME_DIST () as we use this function here we have the screen shoot of our table which shows it in good way 
+
 <img width="880" height="194" alt="image" src="https://github.com/user-attachments/assets/7276a368-d6b3-4386-8db3-1e76dd535761" />
