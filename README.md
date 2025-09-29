@@ -126,3 +126,4 @@ After using NTILE (4 we are going to use the other navigation which called
 CUME_DIST () as we use this function here we have the screen shoot of our table which shows it in good way 
 
 <img width="880" height="194" alt="image" src="https://github.com/user-attachments/assets/7276a368-d6b3-4386-8db3-1e76dd535761" />
+Final analysis review about the project to be runed is about  finding a simplest way of connecting customers to their desirable products is one of our best objective that will make a positive change for salers to earn more income as a way of simplifying tasks for peaple mainly located in the cities and develop the rural ones
