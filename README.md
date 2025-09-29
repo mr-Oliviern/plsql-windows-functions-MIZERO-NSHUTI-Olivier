@@ -132,24 +132,24 @@ INTEGRITY STATEMENT :
 Final analysis review about the project to be runed is about  finding a simplest way of connecting customers to their desirable products is one of our best objective that will make a positive change for salers to earn more income as a way of simplifying tasks for peaple mainly located in the cities and develop the rural ones
 
 📚 References 
-Oracle Corporation. Oracle Database SQL Language Reference 21c. Oracle, 2023.
+1.Oracle Corporation. Oracle Database SQL Language Reference 21c. Oracle, 2023.
 
-Oracle Corporation. Analytic Functions. Oracle Documentation. Available at: https://docs.oracle.com/en/database/oracle/oracle-database/21/sqlrf/Analytic-Functions.html
+2.Oracle Corporation. Analytic Functions. Oracle Documentation. Available at: https://docs.oracle.com/en/database/oracle/oracle-database/21/sqlrf/Analytic-Functions.html
 
-Itzik Ben-Gan. T-SQL Window Functions. Microsoft Press, 2nd Edition, 2019.
+3.Itzik Ben-Gan. T-SQL Window Functions. Microsoft Press, 2nd Edition, 2019.
 
-Markus Winand. SQL Performance Explained. Markus Winand, 2012.
+4.Markus Winand. SQL Performance Explained. Markus Winand, 2012.
 
-W3Schools. SQL Window Functions Tutorial. Available at: https://www.w3schools.com/sql/sql_window_functions.asp
+5.W3Schools. SQL Window Functions Tutorial. Available at: https://www.w3schools.com/sql/sql_window_functions.asp
 
-Mode Analytics. SQL Tutorial: Window Functions. Mode, 2022. Available at: https://mode.com/sql-tutorial/sql-window-functions/
+6.Mode Analytics. SQL Tutorial: Window Functions. Mode, 2022. Available at: https://mode.com/sql-tutorial/sql-window-functions/
 
-PostgreSQL Global Development Group. Window Functions. PostgreSQL 14 Documentation. Available at: https://www.postgresql.org/docs/current/tutorial-window.html
+7.PostgreSQL Global Development Group. Window Functions. PostgreSQL 14 Documentation. Available at: https://www.postgresql.org/docs/current/tutorial-window.html
 
-O’Reilly Media. SQL Cookbook (2nd Edition). Anthony Molinaro, 2020.
+8.O’Reilly Media. SQL Cookbook (2nd Edition). Anthony Molinaro, 2020.
 
-Stack Overflow Community. Practical Q&A discussions on SQL Window Functions. Available at: https://stackoverflow.com/questions/tagged/sql-window-functions
+9.Stack Overflow Community. Practical Q&A discussions on SQL Window Functions. Available at: https://stackoverflow.com/questions/tagged/sql-window-functions
 
-AUCA Course Material. PL/SQL Lecture Notes and Slides (Instructor: Eric Maniraguha, 2024).
+10.AUCA Course Material. PL/SQL Lecture Notes and Slides (Instructor: Eric Maniraguha, 2024).
 
  ENDING WITH A PURPOSE OF FINDING BETTER ROOM FOR IMPROVEMENT
